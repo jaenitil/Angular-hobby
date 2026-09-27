@@ -1,0 +1,48 @@
+.hobby {
+  width: 80%;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: #c4ddff;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  font-family: Arial, sans-serif;
+}
+
+
+h1 {
+  color: #2c75bf;
+  font-size: 36px;
+  text-align: center;
+}
+
+
+h2 {
+  color: #4b77e7;
+  font-size: 26px;
+}
+
+
+p {
+  color: #333333;
+  font-size: 19px;
+  line-height: 1.6;
+}
+
+
+.hobby-image {
+  display: block;
+  width: 500px;
+  max-width: 100%;
+  margin: 25px auto;
+  border-radius: 15px;
+}
+
+
+.person-image {
+  display: block;
+  width: 300px;
+  max-width: 100%;
+  margin: 20px auto;
+  border-radius: 50%;
+  border: 5px solid #120085;
+}
